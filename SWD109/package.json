@@ -1,0 +1,16 @@
+{
+  "name": "swd109",
+  "version": "1.0.0",
+  "description": "Unicorn image upload portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lou",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "formidable": "^1.2.1"
+  }
+}
